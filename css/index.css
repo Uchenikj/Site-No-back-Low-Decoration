@@ -1,0 +1,89 @@
+.olo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    line-height: 70px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+.toto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.img {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:140px;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+    padding-top:75px;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-bottom: 230px;
+}
+.h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.all {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+Footer {
+    background-image: url(blob:https://web.telegram.org/9511f69e-8b39-444b-bf50-43341b3e3b85);
+}
+.head {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 130px;
+}
+.link {
+    margin left: 80px;
+    margin-right: 80px;
+    list-style: none;
+}
+.blog {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.centre {
+    align-content: flex-end;
+    justify-content: center;
+}
+.link a {
+    color:black;
+    text-decoration-line: none;
+    font-family: 'Roboto Slab', serif;
+}
+.Golova {
+    color: rgb(169, 240, 27);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.textik {
+    font-family: 'Roboto Slab', serif;
+}
+.head {
+    padding-top: 15px;
+}
+.but {
+    font-family: 'Montserrat', sans-serif;
+}
