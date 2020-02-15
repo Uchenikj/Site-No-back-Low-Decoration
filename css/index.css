@@ -19,7 +19,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left:140px;
+    margin-left:190px;
 }
 .block {
     display: flex;
@@ -27,7 +27,7 @@
     padding-top:75px;
     padding-left: 230px;
     padding-right: 230px;
-    padding-bottom: 230px;
+    padding-bottom: 90px;
 }
 .h4 {
     display: flex;
@@ -40,9 +40,6 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-}
-Footer {
-    background-image: url(blob:https://web.telegram.org/9511f69e-8b39-444b-bf50-43341b3e3b85);
 }
 .head {
     display: flex;
@@ -57,7 +54,8 @@ Footer {
 .blog {
     display: flex;
     justify-content: center;
-    padding-top: 80px;
+    padding-top: 150px;
+    padding-bottom: 100px;
 }
 .column {
     display: flex;
@@ -86,4 +84,7 @@ Footer {
 }
 .but {
     font-family: 'Montserrat', sans-serif;
+}
+.halfo {
+    background-image: url(https://img5.goodfon.ru/wallpaper/nbig/b/e0/karta-mira-zemlia-mir-chernyi-fon-metallicheskii-blesk.jpg);
 }
